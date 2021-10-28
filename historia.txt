@@ -1,2 +1,4 @@
 mensaje secreto de emma Pilozo
-octubre 28 lista aprendiendo git 
+octubre 29 lista aprendiendo git
+segundo cambio al archivo, cambie 28 por 29
+ 
