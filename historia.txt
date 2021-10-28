@@ -1,4 +1,9 @@
-mensaje secreto de emma Pilozo
+nueva linea 1
+nueva linea 2
+:s
 octubre 29 lista aprendiendo git
 segundo cambio al archivo, cambie 28 por 29
+otras lineas nuevas anadidas
+para propositos de practica
+y borrar primera linea de mensaje secreto de emma Pilozo
  
