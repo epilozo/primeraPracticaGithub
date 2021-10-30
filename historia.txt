@@ -1,3 +1,5 @@
+nuevo colaborador
+:x
 nueva linea 1
 nueva linea 2
 :s
