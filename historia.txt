@@ -1,6 +1,10 @@
 nuevo colaborador
+nueva linea
+lddjfldskfd
 :x
-nueva linea 1
+:x
+:x
+nueva l$iaccutenea 1
 nueva linea 2
 :s
 octubre 29 lista aprendiendo git
