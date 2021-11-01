@@ -4,7 +4,7 @@ lddjfldskfd
 :x
 :x
 :x
-nueva linea 1
+nueva l$iaccutenea 1
 nueva linea 2
 :s
 octubre 29 lista aprendiendo git
